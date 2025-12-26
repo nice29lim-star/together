@@ -1,0 +1,5 @@
+{
+  "name": "EduTrack Admin Console",
+  "description": "A comprehensive administrative dashboard for managing educational projects, tracking financial metrics, and monitoring user activities with seamless Google Apps Script integration for data persistence.",
+  "requestFramePermissions": []
+}
